@@ -103,7 +103,7 @@ class CommentBox extends StatelessWidget {
                                           isReply: true,
                                           likes: 0,
                                           name: 'You',
-                                          profileUrl: 'assets/icons/icon1.png',
+                                          profileUrl: 'assets/icons/icon.png',
                                         ),
                                       );
                                       _commentController.clear();
@@ -126,7 +126,7 @@ class CommentBox extends StatelessWidget {
                                     isReply: true,
                                     likes: 0,
                                     name: 'You',
-                                    profileUrl: 'assets/icons/icon1.png',
+                                    profileUrl: 'assets/icons/icon.png',
                                   ),
                                 );
                                 _commentController.clear();
